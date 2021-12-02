@@ -13,16 +13,6 @@ Imaginez que vous allez à une agence avec un montant de 1000DH et que vous tran
 L'identifiant fonctionnel d'un compte dans ce cas préçis est le RIB .  
 
 
-## Assignement :
-
-* Le code présente des anomalies de qualité (bonnes pratiques , abstraction , lisibilité ...) et des bugs . 
-    * localiser le maximum 
-    * Essayer d'améliorer la qualité du code .    
-    * Essayer de résoudre les bugs détectés. 
-* Implementer le use case `Versement` 
-* Ajouter des tests unitaires.  
-* **Nice to have** : Ajouter une couche de sécurité 
-
 ## How to use 
 To build the projet you will need : 
 * Java 11+ 
@@ -39,7 +29,4 @@ Run command :
 ## or use any prefered method (IDE , java -jar , docker .....)
 ```
 
-## How to submit 
-* Fork the project into your personal gitlab space .    
-* Do the stuff .
-* Send us the link .
+.
